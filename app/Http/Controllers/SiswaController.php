@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Siswa;
 
-//Nafisa Naylal Husna
+//Rafael Bryan 
 class SiswaController extends Controller
 {
     public function index()

@@ -1,3 +1,3 @@
-Jadi saya membuat project CRUD tabel siswa dengan materi yang sudah di ajarkan kemarin 
+saya sudah mengerjakan pts
 
-Nafisa Naylal Husna 
+Rafael Bryan
